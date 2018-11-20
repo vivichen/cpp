@@ -1,0 +1,6 @@
+[submodule "thirdparty/brpc"]
+	path = thirdparty/brpc
+	url = https://github.com/brpc/brpc.git
+[submodule "thirdparty/braft"]
+	path = thirdparty/braft
+	url = https://github.com/brpc/braft.git
